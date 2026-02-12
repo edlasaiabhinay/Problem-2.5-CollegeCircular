@@ -175,4 +175,7 @@ To build a **reliable, efficient, and engagement-driven digital notice system** 
 
 The **Digital Circular & Notice Management Platform** aims to modernize institutional communication by ensuring that important announcements are never missed, always tracked, and easily accessible.
 
+
+Demo video link : https://drive.google.com/file/d/1F2BuaYj44F8eFTAynuVYZg67ogbQAUUo/view?usp=sharing
 Built with dedication by **Team Black Rock** 🚀
+
